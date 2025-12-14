@@ -91,7 +91,8 @@
 - [気象庁XMLフィード](https://xml.kishou.go.jp/)
 - [気象庁JSON API](https://www.jma.go.jp/jma/index.html)
 - [USGS(アメリカ地質調査所) API](https://earthquake.usgs.gov/fdsnws/event/1/)
-・なお、気象庁JSON APIについては「政府標準利用規約に準拠してご利用可能」と気象庁が明言しているため使用しています。
+
+・なお、気象庁JSON APIについては、「政府標準利用規約に準拠してご利用可能」と気象庁が明言しているため、アクセス過多にならないよう十分に配慮した上で使用しています。
 ## 🔗 ETY公式サイト
 [EarthquakeTsunamiYomiage公開ページ](https://doumo2023.github.io/)
 
